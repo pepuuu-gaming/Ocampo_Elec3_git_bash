@@ -1,0 +1,11 @@
+E:\VisualBasic\FileHandling\bin\Debug\FileHandling.exe.config
+E:\VisualBasic\FileHandling\bin\Debug\FileHandling.exe
+E:\VisualBasic\FileHandling\bin\Debug\FileHandling.pdb
+E:\VisualBasic\FileHandling\bin\Debug\FileHandling.xml
+E:\VisualBasic\FileHandling\obj\Debug\FileHandling.vbprojAssemblyReference.cache
+E:\VisualBasic\FileHandling\obj\Debug\FileHandling.Form1.resources
+E:\VisualBasic\FileHandling\obj\Debug\FileHandling.Resources.resources
+E:\VisualBasic\FileHandling\obj\Debug\FileHandling.vbproj.GenerateResource.cache
+E:\VisualBasic\FileHandling\obj\Debug\FileHandling.exe
+E:\VisualBasic\FileHandling\obj\Debug\FileHandling.xml
+E:\VisualBasic\FileHandling\obj\Debug\FileHandling.pdb
