@@ -1,0 +1,11 @@
+E:\VisualBasic\Matrix(5x5)\bin\Debug\Matrix(5x5).exe.config
+E:\VisualBasic\Matrix(5x5)\bin\Debug\Matrix(5x5).exe
+E:\VisualBasic\Matrix(5x5)\bin\Debug\Matrix(5x5).pdb
+E:\VisualBasic\Matrix(5x5)\bin\Debug\Matrix(5x5).xml
+E:\VisualBasic\Matrix(5x5)\obj\Debug\Matrix(5x5).vbprojAssemblyReference.cache
+E:\VisualBasic\Matrix(5x5)\obj\Debug\Matrix_5x5_.Form1.resources
+E:\VisualBasic\Matrix(5x5)\obj\Debug\Matrix_5x5_.Resources.resources
+E:\VisualBasic\Matrix(5x5)\obj\Debug\Matrix(5x5).vbproj.GenerateResource.cache
+E:\VisualBasic\Matrix(5x5)\obj\Debug\Matrix(5x5).exe
+E:\VisualBasic\Matrix(5x5)\obj\Debug\Matrix(5x5).xml
+E:\VisualBasic\Matrix(5x5)\obj\Debug\Matrix(5x5).pdb
